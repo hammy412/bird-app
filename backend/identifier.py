@@ -6,7 +6,7 @@ analyzer = Analyzer()
 
 recording = Recording(
     analyzer,
-    "sample.mp3",
+    "uploads/sample.mp3",
     min_conf=0.25,
 )
 
